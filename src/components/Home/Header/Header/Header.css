@@ -1,0 +1,11 @@
+.header {
+    background-color: #FBD062;
+    clip-path       : polygon(100% 0, 100% 73%, 37% 90%, 0 100%, 0 0);
+    height          : 610px;
+    position        : relative;
+}
+
+.header-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
