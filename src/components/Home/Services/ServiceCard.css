@@ -1,8 +1,8 @@
-.card {
+.task-card {
     transition:all 0.3s ease;
 }
 
-.card:hover {
+.task-card:hover {
     transform: scale(1.1);
     background: #FBD062;
 }

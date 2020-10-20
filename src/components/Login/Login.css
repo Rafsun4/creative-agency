@@ -1,0 +1,29 @@
+.login-form{
+  background: white;
+  height: 100vh;
+}
+
+.login-form-content{
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 4%;
+  width: 50%;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.social-signIn{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 100px auto;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 57px;
+  font-size: 20px;
+  width: 70%;
+}

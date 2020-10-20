@@ -1,6 +1,6 @@
 .header {
     background-color: #FBD062;
-    clip-path       : polygon(100% 0, 100% 73%, 37% 90%, 0 100%, 0 0);
+    clip-path       : polygon(100% 0, 100% 75%, 45% 90%, 0 100%, 0 0);
     height          : 610px;
     position        : relative;
 }

@@ -1,4 +1,5 @@
 import React from 'react';
+import './Carousel.css';
 import carousel1 from '../../../images/carousel-1.png';
 import carousel2 from '../../../images/carousel-2.png';
 import carousel3 from '../../../images/carousel-3.png';
@@ -6,7 +7,7 @@ import carousel3 from '../../../images/carousel-3.png';
 
 const Carousel = () => {
     return (
-        <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel" data-interval="2000">
+        <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel" data-interval="1000">
             <ol className="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
