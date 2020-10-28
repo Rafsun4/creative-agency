@@ -1,19 +1,19 @@
 # Creative Agency 
 
-Live:-[(https://creative-agency-demo.web.app/)]
+Live:-[https://creative-agency-demo.web.app/]
 
-Server Code:-[(https://github.com/Rafsun4/creative-agency-server)]
+Server Code:-[https://github.com/Rafsun4/creative-agency-server]
 
 ___
 
 # Features
-1. USER
+ ### 1. USER
  - ✅ User can login with Gmail.
  - ✅ User can place order for a service provided by the agency.
  - ✅ User can see their current status of order.
  - ✅ User can give review 
  
- 2. ADMIN
+ ### 2. ADMIN
   - ✅  Admin can login with Gmail.
   - ✅ Admin can see the orders that were ordered by customers.
   - ✅ Admin can change the status of an order which will change the customer's order dynamically. 
