@@ -24,10 +24,10 @@ ___
 
 # Language, Library and Packages
  - JavaScript
- - React js
+ - ReactJS
  - React Router Dom
  - Bootstrap
- - NodeJs
+ - NodeJS
  - Firebase
  - MongoDB
  
