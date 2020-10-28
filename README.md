@@ -8,10 +8,10 @@ ___
 
 # Features
 1. USER
- ⋅⋅* ✅ User can login with Gmail.
- ⋅⋅* ✅ User can place order for a service provided by the agency.
- ⋅⋅* ✅ User can see their current status of order.
- ⋅⋅* ✅ User can give review 
+ - ✅ User can login with Gmail.
+ - ✅ User can place order for a service provided by the agency.
+ - ✅ User can see their current status of order.
+ - ✅ User can give review 
  
  2. ADMIN
   ⋅⋅* ✅  Admin can login with Gmail.
