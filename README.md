@@ -14,10 +14,10 @@ ___
  - ✅ User can give review 
  
  2. ADMIN
-  ⋅⋅* ✅  Admin can login with Gmail.
-  ⋅⋅* ✅ Admin can see the orders that were ordered by customers.
-  ⋅⋅* ✅ Admin can change the status of an order which will change the customer's order dynamically. 
-  ⋅⋅* ✅ Admin can add a new service 
-  ⋅⋅* ✅ Admin can make anyone admin by only entering a Gmail.
+  - ✅  Admin can login with Gmail.
+  - ✅ Admin can see the orders that were ordered by customers.
+  - ✅ Admin can change the status of an order which will change the customer's order dynamically. 
+  - ✅ Admin can add a new service 
+  - ✅ Admin can make anyone admin by only entering a Gmail.
 
 ___
