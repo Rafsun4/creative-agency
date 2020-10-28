@@ -23,10 +23,10 @@ ___
 ___
 
 # Language, Library and Packages
- -JavaScript
- -React js
- -React Router Dom
- -Bootstrap
- -NodeJs
- -Firebase
- -MongoDB
+ - JavaScript
+ - React js
+ - React Router Dom
+ - Bootstrap
+ - NodeJs
+ - Firebase
+ - MongoDB
