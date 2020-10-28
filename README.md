@@ -21,3 +21,12 @@ ___
   - ✅ Admin can make anyone admin by only entering a Gmail.
 
 ___
+
+# Language, Library and Packages
+ -JavaScript
+ -React js
+ -React Router Dom
+ -Bootstrap
+ -NodeJs
+ -Firebase
+ -MongoDB
